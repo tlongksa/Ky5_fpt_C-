@@ -1,0 +1,6 @@
+﻿entry point : trình biên dịch , dịch lỗi cho trương trình, 
+arg : đối số dòng lệnh 
+string trong c# là kiểu nguyên thủy, còn trong java kiểu object
+* chú ý:.............
+internal : ra ngoài project thì chỉ phép truy cập giống public trong cùng project
+protected internal truy cập bị giới hạn, 
